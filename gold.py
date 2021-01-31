@@ -8,8 +8,6 @@ win=tkinter.Tk()
 win.title("Rate")
 win.geometry("200x110+1300+100")
 win.resizable(0,0)
-win.iconbitmap("D:\\FFOutput\\gold.ico")
-win.config(bg="#FFD306")
 
 #ba 1 def
 def topmost(self):
